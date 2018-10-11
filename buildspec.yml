@@ -12,4 +12,3 @@ phases:
 artifacts:
   files:
     - build/libs/aws-gradle.jar
-    gra
